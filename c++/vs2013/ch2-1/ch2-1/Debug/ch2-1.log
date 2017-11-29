@@ -1,0 +1,23 @@
+﻿已經開始建置於 2017/9/6 下午 02:59:29。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\user\Desktop\workspace\c++\vs2013\ch2-1\ch2-1\ch2-1.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ch2-1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\ch2\ch2\main.c ex1.c ex2.c ex3.c ex4.c ex5.c ex6_1.c ex6_2.c ex6_3.c ex6_4.c ex6_5.c
+         ex6_5.c
+         ex6_4.c
+         ex6_3.c
+         ex6_2.c
+         ex6_1.c
+         ex5.c
+         ex4.c
+         ex3.c
+         ex2.c
+         ex1.c
+         main.c
+     1>c:\users\user\desktop\workspace\c++\vs2013\ch2\ch2\main.c(1): fatal error C1083: 無法開啟包含檔案: 'c.h': No such file or directory
+         正在產生程式碼...
+     1>專案 "C:\Users\user\Desktop\workspace\c++\vs2013\ch2-1\ch2-1\ch2-1.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.81
