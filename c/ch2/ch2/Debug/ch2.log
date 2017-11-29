@@ -1,0 +1,71 @@
+﻿已經開始建置於 2017/9/20 上午 10:16:23。
+     1>節點 2 (Build 目標) 上的專案 "D:\106NTUTA-04\workspace\ch2\ch2\ch2.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\hw2 0830\hw1.c" "..\..\..\hw2 0830\hw2.c" "..\..\..\hw2 0830\hw3.c" "..\..\..\hw2 0830\hw4.c" "..\..\..\hw2 0830\hw5.c" "..\..\..\hw2 0830\hw6_1.c" "..\..\..\hw2 0830\hw6_2.c" "..\..\..\hw2 0830\hw6_3.c" "..\..\..\hw2 0830\hw6_4.c" "..\..\..\hw2 0830\hw6_5.c" ex2_1.c ex2_10.c ex2_11.c ex2_2.c ex2_3.c ex2_4.c ex2_5.c ex2_6.c ex2_7.c ex2_8.c ex2_9.c main.c
+         main.c
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(70): warning C4013: 'ex1' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(73): warning C4013: 'ex2' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(76): warning C4013: 'ex3' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(80): warning C4013: 'ex4' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(84): warning C4013: 'ex5' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(88): warning C4013: 'ex6_1' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(92): warning C4013: 'ex6_2' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(96): warning C4013: 'ex6_3' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(100): warning C4013: 'ex6_4' 未定義; 假設 extern 傳回整數
+     1>d:\106ntuta-04\workspace\ch2\ch2\main.c(104): warning C4013: 'ex6_5' 未定義; 假設 extern 傳回整數
+         ex2_9.c
+         ex2_8.c
+         ex2_7.c
+         ex2_6.c
+         ex2_5.c
+         ex2_4.c
+         ex2_3.c
+         ex2_2.c
+         ex2_11.c
+         ex2_10.c
+         ex2_1.c
+         hw6_5.c
+         hw6_4.c
+         hw6_3.c
+         hw6_2.c
+         hw6_1.c
+         hw5.c
+         hw4.c
+     1>d:\106ntuta-04\hw2 0830\hw4.c(15): warning C4244: '=' : 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>d:\106ntuta-04\hw2 0830\hw4.c(17): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+         hw3.c
+         正在產生程式碼...
+         正在編譯...
+         hw2.c
+     1>d:\106ntuta-04\hw2 0830\hw2.c(11): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+         hw1.c
+         正在產生程式碼...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\106NTUTA-04\workspace\ch1\ch1\Debug\ch2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\106NTUTA-04\workspace\ch1\ch1\Debug\ch2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\106NTUTA-04\workspace\ch1\ch1\Debug\ch2.lib" /MACHINE:X86 Debug\hw1.obj
+         Debug\hw2.obj
+         Debug\hw3.obj
+         Debug\hw4.obj
+         Debug\hw5.obj
+         Debug\hw6_1.obj
+         Debug\hw6_2.obj
+         Debug\hw6_3.obj
+         Debug\hw6_4.obj
+         Debug\hw6_5.obj
+         Debug\ex2_1.obj
+         Debug\ex2_10.obj
+         Debug\ex2_11.obj
+         Debug\ex2_2.obj
+         Debug\ex2_3.obj
+         Debug\ex2_4.obj
+         Debug\ex2_5.obj
+         Debug\ex2_6.obj
+         Debug\ex2_7.obj
+         Debug\ex2_8.obj
+         Debug\ex2_9.obj
+         Debug\main.obj
+         ch2.vcxproj -> D:\106NTUTA-04\workspace\ch1\ch1\Debug\ch2.exe
+     1>專案 "D:\106NTUTA-04\workspace\ch2\ch2\ch2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.92

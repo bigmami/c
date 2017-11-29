@@ -1,0 +1,21 @@
+﻿已經開始建置於 2017/9/20 下午 04:28:38。
+     1>節點 2 (Build 目標) 上的專案 "D:\產學訓\106NTUTA-04\workspace\ch5\ch5\ch5.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Bubblsort.c ex1.c ex2.c ex7_4d.c main.c test.c
+         test.c
+         main.c
+     1>d:\產學訓\106ntuta-04\workspace\ch5\ch5\main.c(50): warning C4013: 'ex7_4d' 未定義; 假設 extern 傳回整數
+         ex7_4d.c
+     1>d:\產學訓\106ntuta-04\workspace\ch5\ch5\ex7_4d.c(30): error C2059: 語法錯誤 : ']'
+     1>d:\產學訓\106ntuta-04\workspace\ch5\ch5\ex7_4d.c(53): error C2059: 語法錯誤 : '}'
+     1>d:\產學訓\106ntuta-04\workspace\ch5\ch5\ex7_4d.c(55): error C2059: 語法錯誤 : '}'
+         ex2.c
+         ex1.c
+     1>d:\產學訓\106ntuta-04\workspace\ch5\ch5\ex1.c(6): warning C4101: 'j' : 未參考的區域變數
+         Bubblsort.c
+         正在產生程式碼...
+     1>專案 "D:\產學訓\106NTUTA-04\workspace\ch5\ch5\ch5.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.37

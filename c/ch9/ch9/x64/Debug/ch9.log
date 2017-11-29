@@ -1,0 +1,13 @@
+﻿已經開始建置於 2017/11/8 下午 02:42:29。
+     1>節點 2 (Build 目標) 上的專案 "D:\產學訓\106NTUTA-04\workspace\ch9\ch9\ch9.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TC /errorReport:prompt main.c
+         main.c
+     1>main.c(73): warning C4550: 運算式評估為遺漏引數清單的函式
+     1>main.c(94): warning C4013: 'text_4' 未定義; 假設 extern 傳回整數
+     1>main.c(99): fatal error C1004: 找到未預期的檔案結尾
+     1>專案 "D:\產學訓\106NTUTA-04\workspace\ch9\ch9\ch9.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.15

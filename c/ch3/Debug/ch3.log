@@ -1,0 +1,31 @@
+﻿  main.c
+d:\產學訓\106ntuta-04\workspace\ch3\main.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  hw_6.c
+d:\產學訓\106ntuta-04\workspace\ch3\hw_6.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  hw_5.c
+d:\產學訓\106ntuta-04\workspace\ch3\hw_5.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  hw_4.c
+d:\產學訓\106ntuta-04\workspace\ch3\hw_4.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  hw_3.c
+d:\產學訓\106ntuta-04\workspace\ch3\hw_3.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  hw_2.c
+d:\產學訓\106ntuta-04\workspace\ch3\hw_2.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  hw_1.c
+d:\產學訓\106ntuta-04\workspace\ch3\hw_1.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_8.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_8.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_7.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_7.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_6.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_6.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_5.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_5.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_4.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_4.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_3.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_3.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_2.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_2.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  ex3_1.c
+d:\產學訓\106ntuta-04\workspace\ch3\ex3_1.c(1): fatal error C1083: 無法開啟包含檔案: 'stdio.h': No such file or directory
+  正在產生程式碼...

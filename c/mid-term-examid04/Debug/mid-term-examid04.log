@@ -1,0 +1,16 @@
+﻿  main.c
+  ex9.c
+  ex8.c
+  ex7.c
+  ex6.c
+  ex5.c
+d:\產學訓\106ntuta-04\workspace\mid-term-examid04\ex5.c(15): warning C4244: 'return' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  ex4.c
+  ex3.c
+d:\產學訓\106ntuta-04\workspace\mid-term-examid04\ex3.c(5): warning C4047: '正在初始化' : 'int *' 與 'int (*)[10]' 間接取值的層級不同
+  ex2.c
+  ex10.c
+  ex1.c
+d:\產學訓\106ntuta-04\workspace\mid-term-examid04\ex1.c(7): warning C4047: '正在初始化' : 'int *' 與 'int (*)[5]' 間接取值的層級不同
+  正在產生程式碼...
+  mid-term-examid04.vcxproj -> D:\產學訓\106NTUTA-04\workspace\ch2\ch2\Debug\mid-term-examid04.exe

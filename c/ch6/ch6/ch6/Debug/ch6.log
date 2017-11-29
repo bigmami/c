@@ -1,0 +1,39 @@
+﻿  test7.c
+  test6.c
+  test5.c
+  test4.c
+h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\test4.c(7): warning C4477: 'printf' : 格式字串 '%f' 需要 'double' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+  test3.c
+  test.c
+  main.c
+  hw5.c
+  hw4_1.c
+  hw4.c
+  hw3.c
+  hw2.c
+  hw1_1.c
+  hw1.c
+  ex6_5b.c
+  ex6_5a.c
+  ex6_4c.c
+h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\ex6_4c.c(8): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\ex6_4c.c(8): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+  h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\ex6_4c.c(8): note: 缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+  ex6_4b.c
+  ex6_4a.c
+  ex6_3c.c
+  正在產生程式碼...
+h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\hw1.c(11): warning C4716: 'gcd': 必須傳回值
+h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\hw2.c(52): warning C4716: 'compare': 必須傳回值
+h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\hw3.c(30): warning C4716: 'maimum': 必須傳回值
+h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\hw3.c(45): warning C4716: 'minimum': 必須傳回值
+  正在編譯...
+  ex6_3b.c
+  ex6_3a.c
+  ex6_2b.c
+  ex6_2a.c
+  ex6_1a.c
+  正在產生程式碼...
+h:\產學訓\106ntuta-04\workspace\ch6\ch6\ch6\ex6_2a.c(11): warning C4716: 'ex6_2a': 必須傳回值
+  ch6.vcxproj -> H:\產學訓\106NTUTA-04\workspace\ch6\ch6\ch6\Debug\ch6.exe
+  ch6.vcxproj -> H:\產學訓\106NTUTA-04\workspace\ch6\ch6\ch6\Debug\ch6.pdb (Partial PDB)

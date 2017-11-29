@@ -1,0 +1,14 @@
+﻿已經開始建置於 2017/9/27 上午 09:08:51。
+     1>節點 2 (Build 目標) 上的專案 "D:\產學訓\106NTUTA-04\workspace\ch6\ch6\ch6.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ch6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ex6_1a.c main.c
+         main.c
+     1>d:\產學訓\106ntuta-04\workspace\ch6\ch6\main.c(41): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+         ex6_1a.c
+     1>d:\產學訓\106ntuta-04\workspace\ch6\ch6\ex6_1a.c(24): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+         正在產生程式碼...
+     1>專案 "D:\產學訓\106NTUTA-04\workspace\ch6\ch6\ch6.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.09

@@ -1,0 +1,24 @@
+﻿  text3.c
+d:\產學訓\106ntuta-04\workspace\ch8\text3.c(9): warning C4129: ',': 無法辨識的字元逸出序列
+d:\產學訓\106ntuta-04\workspace\ch8\text3.c(10): warning C4129: ',': 無法辨識的字元逸出序列
+d:\產學訓\106ntuta-04\workspace\ch8\text3.c(11): warning C4129: ',': 無法辨識的字元逸出序列
+d:\產學訓\106ntuta-04\workspace\ch8\text3.c(12): warning C4129: ',': 無法辨識的字元逸出序列
+d:\產學訓\106ntuta-04\workspace\ch8\text3.c(5): warning C4305: '正在初始化': 從 'int' 轉換為 'char'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\產學訓\106ntuta-04\workspace\ch8\text3.c(11): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 2 的類型為 'int'
+  test2.c
+  test1.c
+  main.c
+  exam.c
+  ex8_5.c
+d:\產學訓\106ntuta-04\workspace\ch8\ex8_5.c(9): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+  ex8_4.c
+  ex8_3.c
+d:\產學訓\106ntuta-04\workspace\ch8\ex8_3.c(9): warning C4129: ',': 無法辨識的字元逸出序列
+d:\產學訓\106ntuta-04\workspace\ch8\ex8_3.c(10): warning C4129: ',': 無法辨識的字元逸出序列
+d:\產學訓\106ntuta-04\workspace\ch8\ex8_3.c(11): warning C4129: ',': 無法辨識的字元逸出序列
+d:\產學訓\106ntuta-04\workspace\ch8\ex8_3.c(12): warning C4129: ',': 無法辨識的字元逸出序列
+  ex8_2.c
+  ex8_1.c
+  正在產生程式碼...
+  ch8.vcxproj -> D:\產學訓\106NTUTA-04\workspace\ch8\Debug\ch8.exe
+  ch8.vcxproj -> D:\產學訓\106NTUTA-04\workspace\ch8\Debug\ch8.pdb (Partial PDB)
